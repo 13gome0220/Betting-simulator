@@ -2,4 +2,4 @@
 Simulates Box bets and straight bets.
 
 
-Assignment from FIU
+Worked on this Assignment from FIU with Jose Ferrer.
